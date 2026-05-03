@@ -17,17 +17,17 @@
 - Merkezi ilçeler olan Beşiktaş ve Şişli fiyat sıralamasında üst 
   dilimde yer almaktadır.
 
-### İlan Yoğunluğu
+  ### İlan Yoğunluğu
 - En fazla ilan Beyoğlu, Fatih ve Şişli'dedir.
 - Turistik merkeze yakınlık bu ilçelerdeki yüksek arz'ı açıklamaktadır.
 
-### Tercih
+  ### Tercih
 - Yorum sayısına göre en çok tercih edilen ilçeler Beyoğlu, Fatih 
   ve Kadıköy'dür.
 - Kadıköy'ün listeye girmesi yerel ve genç turist profilinin bu 
   bölgeye yöneldiğini göstermektedir.
 
-### Önemli Çıkarım
-Pahalı ilçeler ile en çok tercih edilen ilçeler örtüşmemektedir.
-Fiyat yüksekliği her zaman talep yüksekliği anlamına gelmez.
+  ### Önemli Çıkarım
+ Pahalı ilçeler ile en çok tercih edilen ilçeler örtüşmemektedir.
+ Fiyat yüksekliği her zaman talep yüksekliği anlamına gelmez.
 
